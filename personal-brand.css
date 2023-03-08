@@ -6,3 +6,8 @@ header#top{
   
   border-radius: 50px !important;
 }
+
+.mod-document .o-header.header-size-m {
+    min-height: 380px;
+    border-radius: 50px !important;
+}
